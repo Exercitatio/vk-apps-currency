@@ -1,7 +1,7 @@
 {
   "name": "vk-apps-currency",
   "version": "1.0.0",
-  "description": "",
+  "description": "A special form of online registration in the clinic of the medical center Dynasty for social networks.",
   "main": "index.js",
   "homepage": "https://VKCOM.github.io/vk-apps-currency/",
   "scripts": {
